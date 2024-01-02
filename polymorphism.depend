@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1704192920 source:e:\c++\polymorphism\main.cpp
+	<iostream>
+
+1704123934 e:\c++\polymorphism\enemy.h
+
+1704123256 source:e:\c++\polymorphism\enemy.cpp
+	<iostream>
+	"Enemy.h"
+
+1704192510 source:e:\c++\polymorphism\ninja.cpp
+	<iostream>
+	"Ninja.h"
+	"Enemy.h"
+
+1704191469 e:\c++\polymorphism\ninja.h
+	"Enemy.h"
+
+1704192498 source:e:\c++\polymorphism\monster.cpp
+	<iostream>
+	"Monster.h"
+	"Enemy.h"
+
+1704191485 e:\c++\polymorphism\monster.h
+	"Enemy.h"
+

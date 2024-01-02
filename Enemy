@@ -1,0 +1,6 @@
+#include "Enemy."
+
+Enemy::Enemy()
+{
+    //ctor
+}
